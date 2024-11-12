@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace APIQLKho.Controllers
 {
+    //test
     [ApiController]
     [Route("api/[controller]/[action]")]
     [Authorize] // Chỉ cho phép người dùng đã đăng nhập truy cập vào controller này
